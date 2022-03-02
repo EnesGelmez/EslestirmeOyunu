@@ -1,0 +1,24 @@
+C:\Users\Enesg\source\repos\yazgellab2proj2\yazgellab2proj2\bin\Debug\yazgellab2proj2.exe.config
+C:\Users\Enesg\source\repos\yazgellab2proj2\yazgellab2proj2\bin\Debug\yazgellab2proj2.exe
+C:\Users\Enesg\source\repos\yazgellab2proj2\yazgellab2proj2\bin\Debug\yazgellab2proj2.pdb
+C:\Users\Enesg\source\repos\yazgellab2proj2\yazgellab2proj2\obj\Debug\yazgellab2proj2.csprojAssemblyReference.cache
+C:\Users\Enesg\source\repos\yazgellab2proj2\yazgellab2proj2\obj\Debug\yazgellab2proj2.giris.resources
+C:\Users\Enesg\source\repos\yazgellab2proj2\yazgellab2proj2\obj\Debug\yazgellab2proj2.Properties.Resources.resources
+C:\Users\Enesg\source\repos\yazgellab2proj2\yazgellab2proj2\obj\Debug\yazgellab2proj2.csproj.GenerateResource.cache
+C:\Users\Enesg\source\repos\yazgellab2proj2\yazgellab2proj2\obj\Debug\yazgellab2proj2.csproj.CoreCompileInputs.cache
+C:\Users\Enesg\source\repos\yazgellab2proj2\yazgellab2proj2\obj\Debug\yazgellab2proj2.exe
+C:\Users\Enesg\source\repos\yazgellab2proj2\yazgellab2proj2\obj\Debug\yazgellab2proj2.pdb
+C:\Users\Enesg\source\repos\yazgellab2proj2\yazgellab2proj2\obj\Debug\yazgellab2proj2.oyun.resources
+C:\Users\Enesg\source\repos\yazgellab2proj2\yazgellab2proj2\obj\Debug\yazgellab2proj2.oyunsonu.resources
+F:\DERSLERIM\3. SINIF\2. Donem\Yazılım Geliştirme Lab 2\Proje-2\yazgellab2proj2\yazgellab2proj2\obj\Debug\yazgellab2proj2.csproj.AssemblyReference.cache
+F:\DERSLERIM\3. SINIF\2. Donem\Yazılım Geliştirme Lab 2\Proje-2\yazgellab2proj2\yazgellab2proj2\obj\Debug\yazgellab2proj2.giris.resources
+F:\DERSLERIM\3. SINIF\2. Donem\Yazılım Geliştirme Lab 2\Proje-2\yazgellab2proj2\yazgellab2proj2\obj\Debug\yazgellab2proj2.oyun.resources
+F:\DERSLERIM\3. SINIF\2. Donem\Yazılım Geliştirme Lab 2\Proje-2\yazgellab2proj2\yazgellab2proj2\obj\Debug\yazgellab2proj2.oyunsonu.resources
+F:\DERSLERIM\3. SINIF\2. Donem\Yazılım Geliştirme Lab 2\Proje-2\yazgellab2proj2\yazgellab2proj2\obj\Debug\yazgellab2proj2.csproj.GenerateResource.cache
+F:\DERSLERIM\3. SINIF\2. Donem\Yazılım Geliştirme Lab 2\Proje-2\yazgellab2proj2\yazgellab2proj2\obj\Debug\yazgellab2proj2.csproj.CoreCompileInputs.cache
+F:\DERSLERIM\3. SINIF\2. Donem\Yazılım Geliştirme Lab 2\Proje-2\yazgellab2proj2\yazgellab2proj2\bin\Debug\yazgellab2proj2.exe.config
+F:\DERSLERIM\3. SINIF\2. Donem\Yazılım Geliştirme Lab 2\Proje-2\yazgellab2proj2\yazgellab2proj2\bin\Debug\yazgellab2proj2.exe
+F:\DERSLERIM\3. SINIF\2. Donem\Yazılım Geliştirme Lab 2\Proje-2\yazgellab2proj2\yazgellab2proj2\bin\Debug\yazgellab2proj2.pdb
+F:\DERSLERIM\3. SINIF\2. Donem\Yazılım Geliştirme Lab 2\Proje-2\yazgellab2proj2\yazgellab2proj2\obj\Debug\yazgellab2proj2.Properties.Resources.resources
+F:\DERSLERIM\3. SINIF\2. Donem\Yazılım Geliştirme Lab 2\Proje-2\yazgellab2proj2\yazgellab2proj2\obj\Debug\yazgellab2proj2.exe
+F:\DERSLERIM\3. SINIF\2. Donem\Yazılım Geliştirme Lab 2\Proje-2\yazgellab2proj2\yazgellab2proj2\obj\Debug\yazgellab2proj2.pdb

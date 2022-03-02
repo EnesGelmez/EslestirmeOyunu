@@ -1,0 +1,7 @@
+F:\DERSLERIM\3. SINIF\2. Donem\Yazılım Geliştirme Lab 2\Proje-2\yazgellab2proj2\yazgellab2proj2\obj\Debug\EslestimeOyunu.csproj.AssemblyReference.cache
+F:\DERSLERIM\3. SINIF\2. Donem\Yazılım Geliştirme Lab 2\Proje-2\yazgellab2proj2\yazgellab2proj2\obj\Debug\yazgellab2proj2.giris.resources
+F:\DERSLERIM\3. SINIF\2. Donem\Yazılım Geliştirme Lab 2\Proje-2\yazgellab2proj2\yazgellab2proj2\obj\Debug\yazgellab2proj2.oyun.resources
+F:\DERSLERIM\3. SINIF\2. Donem\Yazılım Geliştirme Lab 2\Proje-2\yazgellab2proj2\yazgellab2proj2\obj\Debug\yazgellab2proj2.oyunsonu.resources
+F:\DERSLERIM\3. SINIF\2. Donem\Yazılım Geliştirme Lab 2\Proje-2\yazgellab2proj2\yazgellab2proj2\obj\Debug\eslestirmeoyunu.Properties.Resources.resources
+F:\DERSLERIM\3. SINIF\2. Donem\Yazılım Geliştirme Lab 2\Proje-2\yazgellab2proj2\yazgellab2proj2\obj\Debug\EslestimeOyunu.csproj.GenerateResource.cache
+F:\DERSLERIM\3. SINIF\2. Donem\Yazılım Geliştirme Lab 2\Proje-2\yazgellab2proj2\yazgellab2proj2\obj\Debug\EslestimeOyunu.csproj.CoreCompileInputs.cache
