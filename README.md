@@ -34,4 +34,4 @@ Oyunda dört adet tema bulunmakta ve puan sistemi içermektedir.
 [issues-url]: https://github.com/EnesGelmez/Kelime_Oyunu/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/enes-gelmez-514397197/
-[product-screenshot]: giriş.png
+[product-screenshot]: giris.png
