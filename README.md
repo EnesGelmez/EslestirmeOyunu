@@ -33,5 +33,5 @@ Oyunda dört adet tema bulunmakta ve puan sistemi içermektedir.
 [issues-shield]: https://img.shields.io/github/issues/EnesGelmez/Kelime_Oyunu.svg?style=for-the-badge
 [issues-url]: https://github.com/EnesGelmez/Kelime_Oyunu/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/enes-gelmez-514397197/
+[linkedin-url]: https://www.linkedin.com/in/enesgelmez/
 [product-screenshot]: giris.png
